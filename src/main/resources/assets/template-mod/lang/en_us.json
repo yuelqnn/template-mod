@@ -1,0 +1,11 @@
+{
+  "item.template-mod.apple_slice": "Apple Slice",
+  "item.template-mod.apple_pie": "Apple Pie",
+  "item.template-mod.apple_ruby": "Apple Ruby",
+
+  "block.template-mod.apple_crate_block": "Apple Crate",
+  "block.template-mod.apple_leaves": "Apple Leaves",
+  "block.template-mod.apple_ruby_block": "Block Of Ruby",
+
+  "itemgroup.template-mod.apple_items_group": "Apple Items"
+}
