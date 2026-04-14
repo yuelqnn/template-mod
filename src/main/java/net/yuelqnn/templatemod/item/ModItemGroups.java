@@ -15,7 +15,7 @@ public class ModItemGroups {
     public static final ItemGroup APPLE_ITEMS_GROUP =
             Registry.register(Registries.ITEM_GROUP, Identifier.of(TemplateMod.MOD_ID, "apple_items_group"),
                     FabricItemGroup.builder().icon(()-> new ItemStack(ModItems.APPLE_PIE))
-                            .displayName(Text.translatable("itemgroup.template-mod.apple_items_group"))
+                            .displayName(Text.translatable("itemgroup.templatemod.apple_items_group"))
                             .entries((displayContext, entries) -> {
                                 entries.add(ModItems.APPLE_PIE);
                                 entries.add(ModItems.APPLE_SLICE);

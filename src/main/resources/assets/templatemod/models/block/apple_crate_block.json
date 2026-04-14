@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "template-mod:block/apple_ruby_block"
+    "all": "templatemod:block/apple_crate_block"
   }
 }

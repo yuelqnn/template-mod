@@ -3,11 +3,11 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "template-mod:apple_ruby_block"
+      "item": "templatemod:apple_ruby_block"
     }
   ],
   "result": {
     "count": 9,
-    "id": "template-mod:apple_ruby"
+    "id": "templatemod:apple_ruby"
   }
 }

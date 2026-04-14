@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "template-mod:item/apple_pie"
+    "layer0": "templatemod:item/apple_ruby"
   }
 }

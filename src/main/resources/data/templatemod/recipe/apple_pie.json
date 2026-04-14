@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "template-mod:apple_slice"
+      "item": "templatemod:apple_slice"
     },
     {
       "item": "minecraft:sugar"
@@ -14,6 +14,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "template-mod:apple_pie"
+    "id": "templatemod:apple_pie"
   }
 }

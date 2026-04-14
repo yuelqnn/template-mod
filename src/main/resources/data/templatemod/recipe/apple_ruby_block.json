@@ -3,7 +3,7 @@
   "category": "building",
   "key": {
     "a": {
-      "item": "template-mod:apple_ruby"
+      "item": "templatemod:apple_ruby"
     }
   },
   "pattern": [
@@ -13,6 +13,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "template-mod:apple_ruby_block"
+    "id": "templatemod:apple_ruby_block"
   }
 }
